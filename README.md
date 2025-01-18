@@ -1,0 +1,2 @@
+A Game Website is an interactive, responsive platform built with HTML5, CSS3, and JavaScript, designed to showcase the latest games, news, and reviews. It features Owl Carousel for smooth and interactive sliders, providing an engaging and seamless user experience across all devices. The website emphasizes intuitive navigation and visually appealing design to captivate gamers.
+Visit Project : https://manojpatil10.github.io/Cavalier-game/
